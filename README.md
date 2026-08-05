@@ -33,19 +33,6 @@ This project performs data cleaning, preprocessing, and exploratory data analysi
 
 ---
 
-# 📊 Sample Visualizations
-
-### Correlation Heatmap
-
-<p align="center">
-  <img src="Images/correlation_heatmap.png" width="700">
-</p>
-
-### Survival Distribution
-
-<p align="center">
-  <img src="Images/survival_distribution.png" width="700">
-</p>
 
 ## 📂 Repository Structure
 
